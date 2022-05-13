@@ -1,6 +1,6 @@
 ## Descripción 💬
 
-✔ En este repositorio esta unos de los desafios de maquetación web con html y css.
+✔ En este repositorio esta unos de los desafios de maquetación web con html, css y con efecto parallax.
 
 ## Autor 🤠
 
